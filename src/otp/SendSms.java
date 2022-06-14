@@ -13,8 +13,7 @@ public class SendSms {
 	
 	public  void sendSms(String message,String number)
 	{
-//		System.out.println(message);
-//		System.out.println(number);
+
 		try
 		{
 		
